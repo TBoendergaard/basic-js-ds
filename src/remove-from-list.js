@@ -22,6 +22,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  *   }
  * }
  */
+
 function removeKFromList(l, k) {
   return filtrNode(l, k);
 
